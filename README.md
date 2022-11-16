@@ -32,7 +32,7 @@ This project was developed with the following technology:
 
 I made a rock, paper, scissors game to train DOM for a tutorial on The Odin Project.
 
-Web project: https://barbosathaissa.github.io/Tip-calculator/
+Web project: https://barbosathaissa.github.io/rock-paper-scissors/
 
 ## :memo: Licença
 
